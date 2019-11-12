@@ -1,0 +1,14 @@
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\bin\Debug\netcoreapp2.1\Allqo.Datos.deps.json
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\bin\Debug\netcoreapp2.1\Allqo.Datos.dll
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\obj\Debug\netcoreapp2.1\Allqo.Datos.csprojAssemblyReference.cache
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\obj\Debug\netcoreapp2.1\Allqo.Datos.csproj.CoreCompileInputs.cache
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\obj\Debug\netcoreapp2.1\Allqo.Datos.AssemblyInfoInputs.cache
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\obj\Debug\netcoreapp2.1\Allqo.Datos.AssemblyInfo.cs
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\bin\Debug\netcoreapp2.1\Allqo.Datos.runtimeconfig.json
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\bin\Debug\netcoreapp2.1\Allqo.Datos.runtimeconfig.dev.json
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\bin\Debug\netcoreapp2.1\Allqo.Datos.pdb
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\bin\Debug\netcoreapp2.1\Allqo.Entidades.dll
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\bin\Debug\netcoreapp2.1\Allqo.Entidades.pdb
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\obj\Debug\netcoreapp2.1\Allqo.Datos.csproj.CopyComplete
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\obj\Debug\netcoreapp2.1\Allqo.Datos.dll
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Datos\obj\Debug\netcoreapp2.1\Allqo.Datos.pdb

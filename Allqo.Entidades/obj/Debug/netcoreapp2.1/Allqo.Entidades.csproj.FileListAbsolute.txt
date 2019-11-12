@@ -1,0 +1,9 @@
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Entidades\bin\Debug\netcoreapp2.1\Allqo.Entidades.deps.json
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Entidades\bin\Debug\netcoreapp2.1\Allqo.Entidades.dll
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Entidades\obj\Debug\netcoreapp2.1\Allqo.Entidades.csprojAssemblyReference.cache
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Entidades\obj\Debug\netcoreapp2.1\Allqo.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Entidades\obj\Debug\netcoreapp2.1\Allqo.Entidades.AssemblyInfoInputs.cache
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Entidades\obj\Debug\netcoreapp2.1\Allqo.Entidades.AssemblyInfo.cs
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Entidades\bin\Debug\netcoreapp2.1\Allqo.Entidades.pdb
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Entidades\obj\Debug\netcoreapp2.1\Allqo.Entidades.dll
+C:\Users\anderly\Desktop\code\C#\Allqo\Allqo.Entidades\obj\Debug\netcoreapp2.1\Allqo.Entidades.pdb
